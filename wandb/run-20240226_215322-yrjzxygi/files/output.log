@@ -1,0 +1,4 @@
+/home/markt/dev/ai-engineering/ai-engineering-course/Week 2/Day 1/aimakerspace/vectordatabase.py:23: FutureWarning: The default argument for metric will be removed in future version of Annoy. Please pass metric='angular' explicitly.
+  self.index = annoy.AnnoyIndex(self.dimention)
+/home/markt/dev/ai-engineering/ai-engineering-course/Week 2/Day 1/aimakerspace/vectordatabase.py:23: FutureWarning: The default argument for metric will be removed in future version of Annoy. Please pass metric='angular' explicitly.
+  self.index = annoy.AnnoyIndex(self.dimention)

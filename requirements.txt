@@ -1,0 +1,11 @@
+numpy==1.25.2
+openai
+python-dotenv==1.0.0
+pandas
+scikit-learn
+ipykernel
+matplotlib
+plotly
+faiss-cpu
+pypdf==4.0.0
+annoy == 1.16.2

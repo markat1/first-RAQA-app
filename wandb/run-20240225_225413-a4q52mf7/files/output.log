@@ -1,0 +1,25 @@
+
+Note: you may need to restart the kernel to use updated packages.
+["ACT I  \nSCENE I. King Lear's palace.  \nEnter KENT, GLOUCESTER, and EDMUND  \nKENT  \nI thought the king had more affected the Duke of  \nAlbany than Cornwall.  \nGLOUCESTER  \nIt did always seem so to us: but now, in the  \ndivision of the kingdom, it appears not which of  \nthe dukes he values most; for equalities are so  \nweighed, that curiosity in neither can make choice  \nof either's moiety.  \nKENT  \nIs not this your son, my lord?  \nGLOUCESTER  \nHis breeding, sir, hath been at my charge: I have  \nso often blushed to acknowledge him, that now I am  \nbrazed to it.  \nKENT  \nI cannot conceive you.  \nGLOUCESTER  \nSir, this young fellow's mother could: whereupon  \nshe grew round -wombed, and had, indeed, sir, a son  \nfor her cradle ere she had a husband for her bed.  \nDo you smell a fault?  \nKENT  \nI cannot wish the fault undone, the issue of it  \nbeing so proper.  \nGLOUCESTER  \nBut I have, sir, a son by order of law, some year  "]
+Note: you may need to restart the kernel to use updated packages.
+["ACT I  \nSCENE I. King Lear's palace.  \nEnter KENT, GLOUCESTER, and EDMUND  \nKENT  \nI thought the king had more affected the Duke of  \nAlbany than Cornwall.  \nGLOUCESTER  \nIt did always seem so to us: but now, in the  \ndivision of the kingdom, it appears not which of  \nthe dukes he values most; for equalities are so  \nweighed, that curiosity in neither can make choice  \nof either's moiety.  \nKENT  \nIs not this your son, my lord?  \nGLOUCESTER  \nHis breeding, sir, hath been at my charge: I have  \nso often blushed to acknowledge him, that now I am  \nbrazed to it.  \nKENT  \nI cannot conceive you.  \nGLOUCESTER  \nSir, this young fellow's mother could: whereupon  \nshe grew round -wombed, and had, indeed, sir, a son  \nfor her cradle ere she had a husband for her bed.  \nDo you smell a fault?  \nKENT  \nI cannot wish the fault undone, the issue of it  \nbeing so proper.  \nGLOUCESTER  \nBut I have, sir, a son by order of law, some year  "]
+ACT I
+SCENE I. King Lear's palace.
+Enter KENT, GLOUCESTER, and EDMUND
+KENT
+I thought the kin
+The best way to write a loop depends on the specific task you are trying to accomplish and the programming language you are using. In general, it's a good practice to keep your loops simple, clear, and easy to understand for yourself and others who may read your code in the future.
+If you are using Python, one of the most common ways to write a loop is using a "for" loop to iterate over a sequence of items. For example:
+```python
+for i in range(5):
+    print(i)
+```
+This loop will iterate 5 times, printing the numbers 0 to 4. Another common type of loop in Python is a "while" loop, which continues iterating as long as a certain condition is true. For example:
+```python
+count = 0
+while count < 5:
+    print(count)
+    count += 1
+```
+When writing a loop, make sure to pay attention to the loop condition, loop body, and any variables that are being used. It's also important to avoid infinite loops by ensuring that the loop will eventually terminate. Experiment with different loop structures to find the most suitable one for your specific task. Remember, the best way to write a loop is the way that is most clear and efficient for your particular situation.
+Note: you may need to restart the kernel to use updated packages.

@@ -1,0 +1,16 @@
+
+Note: you may need to restart the kernel to use updated packages.
+["ACT I  \nSCENE I. King Lear's palace.  \nEnter KENT, GLOUCESTER, and EDMUND  \nKENT  \nI thought the king had more affected the Duke of  \nAlbany than Cornwall.  \nGLOUCESTER  \nIt did always seem so to us: but now, in the  \ndivision of the kingdom, it appears not which of  \nthe dukes he values most; for equalities are so  \nweighed, that curiosity in neither can make choice  \nof either's moiety.  \nKENT  \nIs not this your son, my lord?  \nGLOUCESTER  \nHis breeding, sir, hath been at my charge: I have  \nso often blushed to acknowledge him, that now I am  \nbrazed to it.  \nKENT  \nI cannot conceive you.  \nGLOUCESTER  \nSir, this young fellow's mother could: whereupon  \nshe grew round -wombed, and had, indeed, sir, a son  \nfor her cradle ere she had a husband for her bed.  \nDo you smell a fault?  \nKENT  \nI cannot wish the fault undone, the issue of it  \nbeing so proper.  \nGLOUCESTER  \nBut I have, sir, a son by order of law, some year  "]
+ACT I
+SCENE I. King Lear's palace.
+Enter KENT, GLOUCESTER, and EDMUND
+KENT
+I thought the kin
+The best way to write a loop depends on the specific requirements of your program. In general, it is important to consider the following factors when writing a loop:
+1. Choose the appropriate type of loop: Depending on the situation, you can use a for loop, while loop, or do-while loop.
+2. Clearly define the loop condition: Make sure that the loop condition is clearly specified so that the loop knows when to stop iterating.
+3. Use meaningful variable names: Use descriptive variable names to make your code more readable and maintainable.
+4. Handle edge cases: Consider any edge cases or special conditions that may affect the loop and write your loop accordingly.
+5. Keep the loop body concise: Make sure that the code within the loop body is concise and performs only the necessary operations.
+Overall, writing a loop that is clear, concise, and efficient will help improve the readability and maintainability of your code.
+Note: you may need to restart the kernel to use updated packages.

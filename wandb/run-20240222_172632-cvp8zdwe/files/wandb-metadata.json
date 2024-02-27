@@ -1,0 +1,207 @@
+{
+    "os": "Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.11.7",
+    "heartbeatAt": "2024-02-22T16:26:36.853204",
+    "startedAt": "2024-02-22T16:26:32.368317",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Python RAQA Example.ipynb",
+    "codePathLocal": null,
+    "git": {
+        "remote": "git@github.com:AI-Maker-Space/AI-Engineering.git",
+        "commit": "fe191f7105c87f41a5e51ce7eba64740e74ffacb"
+    },
+    "email": "markt@outlook.dk",
+    "root": "/home/markt/dev/ai-engineering/ai-engineering-course",
+    "host": "markt",
+    "username": "markt",
+    "executable": "/home/markt/anaconda3/envs/llmops-course/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 4499.9169999999995,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.917,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 74.8661117553711
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 15.226436614990234
+    }
+}
